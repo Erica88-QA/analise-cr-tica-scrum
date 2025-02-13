@@ -40,8 +40,11 @@ Com base nas necessidades apresentadas pelo usuário, podemos estruturar os prob
 **Resultados da personalização e implantação do sistema**
 
 🚀 Agilidade nas operações laboratoriais 
+
 🚀 Padronização dos processos 
+
 🚀 Monitoramento das operações 
+
 🚀 Otimização do tempo de atendimento 
 
 Outro benefício foi acompanhamento dos TATs (sigla para Turn Aroud Time) ou Tempos de Resposta diários utilizando relatórios. Antes da implementação, monitorar os tempos de resposta era uma tarefa complicada e morosa, a qual não permitia uma visão clara e imediata do desempenho operacional. Com a disponibilidade do relatório, o acompanhamento dos TATs diários foi significativamente aprimorado de acordo com a necessidade do laboratório. Sendo possível acessar rapidamente informações detalhadas sobre o tempo necessário para concluir cada etapa do processo laboratorial, desde a coleta de amostras até a liberação dos resultados.  
